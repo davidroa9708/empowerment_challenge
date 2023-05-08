@@ -17,7 +17,7 @@
 
 ## Pasos para ejecutar las pruebas:
 
-1. Correr el backend en docker
+1. No se requiere correr el backend
 2. Ejecutar los test con el comando `npm run test`
 
 ## Endpoints de Swagger:
